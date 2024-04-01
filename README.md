@@ -1,5 +1,5 @@
-# Terceiro Projeto - LP
+# Projetos - Linguagens de Programação
 
-## Java 
+## Lingagem: Java 
 
-### Aplicações utilizadas: IntelliJ
+### Aplicações utilizadas: IntelliJ IDEA
